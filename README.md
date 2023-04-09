@@ -3,7 +3,7 @@
 <h1 align="center">Hello World🌍👋, I'm Bimal!</h1>
 <h3 align="center">Hi, im a Frontend developer </h3>
 <br/>
-<img width='650'align='right' src='https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif' />
+<img width='600'align='right' src='https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif' />
 <p align="left">
 
 🌱 I Write Code as a Javascript Frontend developer. Specialized in React js 
