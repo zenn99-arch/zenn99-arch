@@ -1,18 +1,44 @@
 
-<img align=center src='https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif' />
-<h1 align="center">Hello World🌍👋, I'm Bimal!</h1>
-<h3 align="center">Hi, im a Frontend developer </h3>
-<br/>
-<img width='600'align='right' src='https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif' />
-<p align="left">
+## Treat for eyes
 
-🌱 I Write Code as a Javascript Frontend developer. Specialized in React js 
+#### Terminal File transfer for DEVs
+- Url: https://focused-kepler-d70006.netlify.app/
+[![Terminal Transfer](https://boisterous-alpaca-37b7e6.netlify.app/assets/termtransfer.png)](https://focused-kepler-d70006.netlify.app/)
 
-👨‍💻 All of my projects are available at [https://react-portfolio01.vercel.app/](https://react-portfolio01.vercel.app/)
+#### Ecom Dashboard
+- Url: https://nrg-ecom-dashboard.netlify.app/
+- Repository: https://github.com/firebirdtech/react-admin-dashboard
+[![Admin](https://boisterous-alpaca-37b7e6.netlify.app/assets/admin.png)](https://nrg-ecom-dashboard.netlify.app/)
 
-📫 How to reach me bimal.ray99@gmail.com
+#### NFT Marketplace
+- Url: https://nrg-app-showcase.netlify.app/
+- Repository: https://github.com/firebirdtech/nft-marketplace
+[![NFT](https://boisterous-alpaca-37b7e6.netlify.app/assets/capture.png)](https://nrg-app-showcase.netlify.app/)
 
-</p>
+#### Workout Guide
+- Url: https://nrg-gym-app.netlify.app/
+- Repository: https://github.com/firebirdtech/react-gym-app
+[![Workout App](https://boisterous-alpaca-37b7e6.netlify.app/assets/gymapp.png)](https://nrg-gym-app.netlify.app/)
+
+#### Cred Website
+- Url: https://nrg-cred.netlify.app/
+- Repository: https://github.com/firebirdtech/cred-web-clone
+[![Cred Clone](https://boisterous-alpaca-37b7e6.netlify.app/assets/cred.png)](https://nrg-cred.netlify.app/)
+
+#### Portfolio
+- Url: https://neelratanguria.netlify.app/
+- Repository: https://github.com/firebirdtech/neo-portfolio
+[![Portfolio](https://boisterous-alpaca-37b7e6.netlify.app/assets/portfolio.png)](https://neelratanguria.netlify.app/)
+
+### Hi there 👋
+
+- 🔭 I’m currently working on medical softwares
+- 🌱 I’m currently learning Event-driven systems
+- 👯 I’m looking to collaborate on anything
+- 📫 How to reach me: Look me up on LinkedIn
+- 😄 Pronouns: Early bird
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelratanguria&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Stack</h3>
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
