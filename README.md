@@ -15,11 +15,11 @@
 
 #### Syncfusion Dashboard 
 - Url: https://react-syncfusion-dashboard-eight.vercel.app/
-[1](https://user-images.githubusercontent.com/72511459/228819101-a22182a8-e989-41dc-a05e-aeb4291ecef1.PNG)
+
 
 #### Cred Website
 - Url: https://cred-webclone.netlify.app
-[Cred Clone](https://boisterous-alpaca-37b7e6.netlify.app/assets/cred.png)
+[![Cred Clone](https://boisterous-alpaca-37b7e6.netlify.app/assets/cred.png)](https://nrg-cred.netlify.app/)
 
 #### Portfolio
 - Url: https://react-portfolio01.vercel.app/
