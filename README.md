@@ -1,34 +1,29 @@
 
 ## Treat for eyes
 
-#### Terminal File transfer for DEVs
-- Url: https://focused-kepler-d70006.netlify.app/
-[![Terminal Transfer](https://boisterous-alpaca-37b7e6.netlify.app/assets/termtransfer.png)](https://focused-kepler-d70006.netlify.app/)
+#### Tagheuer WebClone
+- Url: https://react-webclone-tagheuer.vercel.app/
+![Films   TV 02-05-2023 11 34 36 AM](https://user-images.githubusercontent.com/72511459/235591091-c70f51ed-c65a-40be-82bf-e0878adbfb77.png)
 
-#### Ecom Dashboard
-- Url: https://nrg-ecom-dashboard.netlify.app/
-- Repository: https://github.com/firebirdtech/react-admin-dashboard
-[![Admin](https://boisterous-alpaca-37b7e6.netlify.app/assets/admin.png)](https://nrg-ecom-dashboard.netlify.app/)
+#### Threejs shirt Showcase 
+- Repository: https://github.com/zenn99-arch/react-threejs-3d-Shirt
+![Screenshot 2023-04-06 163535](https://user-images.githubusercontent.com/72511459/230359469-2c72f600-7945-48b7-8329-a4ce26eb3f71.png)
 
-#### NFT Marketplace
-- Url: https://nrg-app-showcase.netlify.app/
-- Repository: https://github.com/firebirdtech/nft-marketplace
-[![NFT](https://boisterous-alpaca-37b7e6.netlify.app/assets/capture.png)](https://nrg-app-showcase.netlify.app/)
+#### Pinterest Clone
+- Url: https://pinterest-clone-reactt.netlify.app/
+![Screenshot 2023-04-09 045545](https://user-images.githubusercontent.com/72511459/230746715-2ddc31fd-c1ae-4685-8b78-a2921c2ec1d2.png)
 
-#### Workout Guide
-- Url: https://nrg-gym-app.netlify.app/
-- Repository: https://github.com/firebirdtech/react-gym-app
-[![Workout App](https://boisterous-alpaca-37b7e6.netlify.app/assets/gymapp.png)](https://nrg-gym-app.netlify.app/)
+#### Syncfusion Dashboard 
+- Url: https://react-syncfusion-dashboard-eight.vercel.app/
+![1](https://user-images.githubusercontent.com/72511459/228819101-a22182a8-e989-41dc-a05e-aeb4291ecef1.PNG)
 
 #### Cred Website
-- Url: https://nrg-cred.netlify.app/
-- Repository: https://github.com/firebirdtech/cred-web-clone
-[![Cred Clone](https://boisterous-alpaca-37b7e6.netlify.app/assets/cred.png)](https://nrg-cred.netlify.app/)
+- Url: https://cred-webclone.netlify.app
+[![Cred Clone](https://boisterous-alpaca-37b7e6.netlify.app/assets/cred.png)]
 
 #### Portfolio
-- Url: https://neelratanguria.netlify.app/
-- Repository: https://github.com/firebirdtech/neo-portfolio
-[![Portfolio](https://boisterous-alpaca-37b7e6.netlify.app/assets/portfolio.png)](https://neelratanguria.netlify.app/)
+- Url: https://react-portfolio01.vercel.app/
+![Screenshot 2023-04-04 172500](https://user-images.githubusercontent.com/72511459/229783841-e567588d-d112-4987-a5ab-9f9d98fd2dec.png)
 
 ### Hi there 👋
 
@@ -37,8 +32,6 @@
 - 👯 I’m looking to collaborate on anything
 - 📫 How to reach me: Look me up on LinkedIn
 - 😄 Pronouns: Early bird
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelratanguria&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Stack</h3>
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
