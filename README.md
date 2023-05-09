@@ -33,7 +33,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on medical softwares
+- 🔭 I’m currently working on Web Devlopment
 - 🌱 I’m currently learning Event-driven systems
 - 👯 I’m looking to collaborate on anything
 - 📫 How to reach me: Look me up on LinkedIn
