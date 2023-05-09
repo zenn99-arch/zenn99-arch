@@ -7,23 +7,23 @@
 
 #### Threejs shirt Showcase 
 - Repository: https://github.com/zenn99-arch/react-threejs-3d-Shirt
-![Screenshot 2023-04-06 163535](https://user-images.githubusercontent.com/72511459/230359469-2c72f600-7945-48b7-8329-a4ce26eb3f71.png)
+[![Screenshot 2023-04-06 163535](https://user-images.githubusercontent.com/72511459/230359469-2c72f600-7945-48b7-8329-a4ce26eb3f71.png)](https://github.com/zenn99-arch/react-threejs-3d-Shirt)
 
 #### Pinterest Clone
 - Url: https://pinterest-clone-reactt.netlify.app/
-![Screenshot 2023-04-09 045545](https://user-images.githubusercontent.com/72511459/230746715-2ddc31fd-c1ae-4685-8b78-a2921c2ec1d2.png)
+[[Screenshot 2023-04-09 045545](https://user-images.githubusercontent.com/72511459/230746715-2ddc31fd-c1ae-4685-8b78-a2921c2ec1d2.png)](https://pinterest-clone-reactt.netlify.app/)
 
 #### Syncfusion Dashboard 
 - Url: https://react-syncfusion-dashboard-eight.vercel.app/
-![1](https://user-images.githubusercontent.com/72511459/228819101-a22182a8-e989-41dc-a05e-aeb4291ecef1.PNG)
+[[1](https://user-images.githubusercontent.com/72511459/228819101-a22182a8-e989-41dc-a05e-aeb4291ecef1.PNG)](https://pinterest-clone-reactt.netlify.app/)
 
 #### Cred Website
 - Url: https://cred-webclone.netlify.app
-![Cred Clone](https://boisterous-alpaca-37b7e6.netlify.app/assets/cred.png)
+[[Cred Clone](https://boisterous-alpaca-37b7e6.netlify.app/assets/cred.png)](https://cred-webclone.netlify.app)
 
 #### Portfolio
 - Url: https://react-portfolio01.vercel.app/
-![Screenshot 2023-04-04 172500](https://user-images.githubusercontent.com/72511459/229783841-e567588d-d112-4987-a5ab-9f9d98fd2dec.png)
+[[Screenshot 2023-04-04 172500](https://user-images.githubusercontent.com/72511459/229783841-e567588d-d112-4987-a5ab-9f9d98fd2dec.png)](https://react-portfolio01.vercel.app/)
 
 ### Hi there 👋
 
