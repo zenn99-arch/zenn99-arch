@@ -19,7 +19,7 @@
 
 #### Cred Website
 - Url: https://cred-webclone.netlify.app
-[![Cred Clone](https://boisterous-alpaca-37b7e6.netlify.app/assets/cred.png)]
+![Cred Clone](https://boisterous-alpaca-37b7e6.netlify.app/assets/cred.png)
 
 #### Portfolio
 - Url: https://react-portfolio01.vercel.app/
