@@ -36,7 +36,7 @@
 - 🔭 I’m currently working on Web Devlopment
 - 🌱 I’m currently learning Web devlopment
 - 👯 I’m looking to collaborate on anything
-- 📫 How to reach me: Look me up on <a href='in/bimal-ray-abb5b0175'>LinkedIn</a>
+- 📫 How to reach me: Look me up on <a href='https://www.linkedin.com/in/bimal-ray-abb5b0175'>LinkedIn</a>
 - 😄 Pronouns: Early bird
 
 <h3 align="left">Stack</h3>
