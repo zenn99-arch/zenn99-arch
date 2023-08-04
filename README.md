@@ -37,7 +37,7 @@
 - 🌱 I’m currently learning Web devlopment.
 - 👯 I’m looking to collaborate on anything.
 - 📫 How to reach me: Look me up on <a href='https://www.linkedin.com/in/bimal-ray-abb5b0175'>LinkedIn</a>
-- 😄 Pronouns: Early bird
+- 😄 Pronouns: Early bird.
 
 <h3 align="left">Stack</h3>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="nodejs" width="40" height="40"/> </a> </a></p>
