@@ -1,7 +1,7 @@
 
 ## Treat for eyes 
 
-#### Tagheuer WebClone
+#### Tagheuer WebClonee
 - Url: https://react-webclone-tagheuer.vercel.app/
 [![Films   TV 02-05-2023 11 34 36 AM](https://user-images.githubusercontent.com/72511459/235591091-c70f51ed-c65a-40be-82bf-e0878adbfb77.png)](https://react-webclone-tagheuer.vercel.app/)
 
