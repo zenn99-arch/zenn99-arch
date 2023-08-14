@@ -10,9 +10,10 @@
 - Repository: https://github.com/zenn99-arch/react-threejs-3d-Shirt
 [![Screenshot 2023-04-06 163535](https://user-images.githubusercontent.com/72511459/230359469-2c72f600-7945-48b7-8329-a4ce26eb3f71.png)](https://github.com/zenn99-arch/react-threejs-3d-Shirt)
 
-#### Pinterest Clone
-- Url: https://pinterest-clone-reactt.netlify.app/
-[![Screenshot 2023-04-09 045545](https://user-images.githubusercontent.com/72511459/230746715-2ddc31fd-c1ae-4685-8b78-a2921c2ec1d2.png)](https://pinterest-clone-reactt.netlify.app/)
+#### Magma Real Estate
+- Url: https://magma-webclone.vercel.app/
+![Screenshot ](https://github.com/zenn99-arch/zenn99-arch/assets/72511459/73aefe7d-0a19-4761-84a3-7507cd9705b7)
+![Screenshot 2023-08-14 062149](https://github.com/zenn99-arch/zenn99-arch/assets/72511459/59f1fcac-b8ab-4c8e-8765-b5d85fed4b29)
 
 #### Botanical Website
 - Url: https://botnical-garden.netlify.app/
@@ -22,9 +23,11 @@
 - Url: https://react-syncfusion-dashboard-eight.vercel.app/
 [![1](https://user-images.githubusercontent.com/72511459/228819101-a22182a8-e989-41dc-a05e-aeb4291ecef1.PNG)](https://react-syncfusion-dashboard-eight.vercel.app/)
 
-#### Cred Website
-- Url: https://cred-webclone.netlify.app
-[![Cred Clone](https://boisterous-alpaca-37b7e6.netlify.app/assets/cred.png)](https://cred-webclone.netlify.app)
+#### Apple Vision Pro
+- Url: https://magma-webclone-r1eh.vercel.app/
+![Screenshot 2023-08-14 061516](https://github.com/zenn99-arch/zenn99-arch/assets/72511459/7e11f03d-db2f-4704-9a46-4d035ee91362)
+![Screenshot 2023-08-14 061614](https://github.com/zenn99-arch/zenn99-arch/assets/72511459/7fa5e618-879b-45e0-a76f-daed708bf2a4)
+
 
 #### Portfolio
 - Url: https://react-portfolio01.vercel.app/
