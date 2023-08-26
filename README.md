@@ -25,7 +25,7 @@
 - Url: https://botnical-garden.netlify.app/
 ![botnical garden](https://user-images.githubusercontent.com/72511459/235184960-930facfd-ee60-4b23-b834-8e45036d93ed.png)
 
-# react-linear-webclone
+#### react linear webclone
 - Url: https://react-linear-webclone.vercel.app/
 ![Screenshot 2023-08-26 094138](https://github.com/zenn99-arch/react-linear-webclone/assets/72511459/7ebdcad5-5236-4d94-a58c-dba2ea9479e1)
 
