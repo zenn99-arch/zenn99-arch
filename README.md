@@ -25,9 +25,11 @@
 - Url: https://botnical-garden.netlify.app/
 ![botnical garden](https://user-images.githubusercontent.com/72511459/235184960-930facfd-ee60-4b23-b834-8e45036d93ed.png)
 
-#### Syncfusion Dashboard 
-- Url: https://react-syncfusion-dashboard-eight.vercel.app/
-[![1](https://user-images.githubusercontent.com/72511459/228819101-a22182a8-e989-41dc-a05e-aeb4291ecef1.PNG)](https://react-syncfusion-dashboard-eight.vercel.app/)
+# react-linear-webclone
+- Url: https://react-linear-webclone.vercel.app/
+![Screenshot 2023-08-26 094138](https://github.com/zenn99-arch/react-linear-webclone/assets/72511459/7ebdcad5-5236-4d94-a58c-dba2ea9479e1)
+![Screenshot 2023-08-26 094155](https://github.com/zenn99-arch/react-linear-webclone/assets/72511459/6139af9e-b452-465b-82ce-1f2d14704664)
+
 
 #### Portfolio
 - Url: https://react-portfolio01.vercel.app/
