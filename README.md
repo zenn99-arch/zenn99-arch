@@ -27,7 +27,7 @@
 
 #### react linear webclone
 - Url: https://react-linear-webclone.vercel.app/
-![Screenshot 2023-08-26 094138](https://github.com/zenn99-arch/react-linear-webclone/assets/72511459/7ebdcad5-5236-4d94-a58c-dba2ea9479e1)
+![Screenshot 2023-08-26 094155](https://github.com/zenn99-arch/zenn99-arch/assets/72511459/a38dc5cc-1fa4-4188-b3da-dec1ae658d45)
 
 
 #### Portfolio
