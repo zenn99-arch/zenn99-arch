@@ -2,7 +2,7 @@
 ## Treat for eyes 
 
 
-#### Garoa Webclone.
+#### Build In Amsterdam Webclone.
 - Url: https://buildinamsterdam-webclone.vercel.app/
 ![image](https://github.com/user-attachments/assets/c5271f74-d9b2-4a89-8efd-a19bfa10cb8f)
 
