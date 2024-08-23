@@ -5,7 +5,7 @@
 
 #### Ochi.
 - Url: https://oochi-webclone.vercel.app/
-![OCHI (https://github.com/devwithzain/ochi-website-clone/assets/131141179/d47be37b-efa0-45f0-bb18-1c5aed00191b)]
+![OCHI ](https://github.com/devwithzain/ochi-website-clone/assets/131141179/d47be37b-efa0-45f0-bb18-1c5aed00191b)
 
 #### Build In Amsterdam Webclone.
 - Url: https://buildinamsterdam-webclone.vercel.app/
