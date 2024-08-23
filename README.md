@@ -2,11 +2,14 @@
 ## Treat for eyes 
 
 
+
+#### Ochi.
+- Url: https://oochi-webclone.vercel.app/
+![OCHI (https://github.com/devwithzain/ochi-website-clone/assets/131141179/d47be37b-efa0-45f0-bb18-1c5aed00191b)]
+
 #### Build In Amsterdam Webclone.
 - Url: https://buildinamsterdam-webclone.vercel.app/
 ![image](https://github.com/user-attachments/assets/c5271f74-d9b2-4a89-8efd-a19bfa10cb8f)
-
-
 
 #### Tagheuer WebClone
 - Url: https://react-webclone-tagheuer.vercel.app/
@@ -31,11 +34,6 @@
 #### react linear webclone
 - Url: https://react-linear-webclone.vercel.app/
 ![Screenshot 2023-08-26 094155](https://github.com/zenn99-arch/zenn99-arch/assets/72511459/a38dc5cc-1fa4-4188-b3da-dec1ae658d45)
-
-
-#### Portfolio
-- Url: https://react-portfolio01.vercel.app/
-[![Screenshot 2023-04-04 172500](https://user-images.githubusercontent.com/72511459/229783841-e567588d-d112-4987-a5ab-9f9d98fd2dec.png)](https://react-portfolio01.vercel.app/)
 
 
 ### Hi there 👋
