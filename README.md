@@ -12,11 +12,12 @@
 #### Build In Amsterdam Webclone.
 - Url: https://buildinamsterdam-webclone.vercel.app/
 ![image](https://github.com/user-attachments/assets/c5271f74-d9b2-4a89-8efd-a19bfa10cb8f)
-![image](https://github.com/user-attachments/assets/974ca57e-cb61-4b93-ab0e-bce51520dbc6)
+![image](https://github.com/user-attachments/assets/4ccb16a2-28ac-44e4-9693-b2015f82eca6)
 
 
 #### Make Pill Webclone
 - Url: https://ts-makepill-website-clone.vercel.app/
+![image](https://github.com/user-attachments/assets/d59fd63e-8bce-4d69-b8b5-a452df3ab7df)
 ![image](https://github.com/user-attachments/assets/a66a1ddb-b4f1-4365-a203-410ba27fc894)
 ![image](https://github.com/user-attachments/assets/56c22e52-d94f-41da-af86-6a30895f5f10)
 
