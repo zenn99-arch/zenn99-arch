@@ -61,7 +61,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Web Devlopment.
-- 🌱 I’m currently learning Ai devlopment.
+- 🌱 I’m currently learning Aws.
 - 👯 I’m looking to collaborate on anything.
 - 📫 How to reach me: Look me up on <a href='https://www.linkedin.com/in/bimal-ray-abb5b0175'>LinkedIn</a>
 - 😄 Pronouns: Early bird.
