@@ -2,12 +2,15 @@
 ## Treat for eyes 
 
 
-
 #### Ochi.
 - Url: https://oochi-webclone.vercel.app/
 ![OCHI ](https://github.com/devwithzain/ochi-website-clone/assets/131141179/d47be37b-efa0-45f0-bb18-1c5aed00191b)
 ![image](https://github.com/user-attachments/assets/cecb8b9d-f020-4ac2-b78d-e752205b98b8)
 
+#### Js brand integration Game devlopment
+- url: https://phaser-mumbai-indian-game.vercel.app/
+![image](https://github.com/user-attachments/assets/b66fe6c8-0a44-4bed-9773-daf46c64fc0a)
+![image](https://github.com/user-attachments/assets/3494d518-7609-40fd-8be2-cef4da008453)
 
 #### Build In Amsterdam Webclone.
 - Url: https://buildinamsterdam-webclone.vercel.app/
@@ -19,19 +22,16 @@
 ![image](https://github.com/user-attachments/assets/ef80cdc0-ec1b-4536-b329-f1c9825c8a76)
 ![image](https://github.com/user-attachments/assets/89f47e8b-7fbe-4a9d-9982-dc915c4e6c26)
 
-
 #### Make Pill Webclone
 - Url: https://ts-makepill-website-clone.vercel.app/
 ![image](https://github.com/user-attachments/assets/d59fd63e-8bce-4d69-b8b5-a452df3ab7df)
 ![image](https://github.com/user-attachments/assets/a66a1ddb-b4f1-4365-a203-410ba27fc894)
 ![image](https://github.com/user-attachments/assets/56c22e52-d94f-41da-af86-6a30895f5f10)
 
-
 #### Brandbeet webclone
 - Url: https://brandbeet-webclone.vercel.app/
 ![image](https://github.com/user-attachments/assets/ff720a68-01c9-4de2-8392-3bb170b7ffed)
 ![image](https://github.com/user-attachments/assets/38d3116f-de55-43dc-851a-2d17ea56cb2b)
-
 
 #### Significo webclone
 - Url: https://significo-webclone.vercel.app/
@@ -39,18 +39,10 @@
 ![image](https://github.com/user-attachments/assets/ea90333f-ee47-4209-8279-ae43bafdc5b3)
 ![image](https://github.com/user-attachments/assets/a06b8eaa-6e5a-4caf-8ad8-e9c52312a1a7)
 
-
 #### Tagheuer WebClone
 - Url: https://react-webclone-tagheuer.vercel.app/
 [![Films   TV 02-05-2023 11 34 36 AM](https://user-images.githubusercontent.com/72511459/235591091-c70f51ed-c65a-40be-82bf-e0878adbfb77.png)](https://react-webclone-tagheuer.vercel.app/)
 ![Screenshot 2023-08-14 085425](https://github.com/zenn99-arch/zenn99-arch/assets/72511459/107f3b00-6084-41ee-9b73-e7f0ba2ecef2)
-
-
-#### Js brand integration Game devlopment
-- url: https://phaser-mumbai-indian-game.vercel.app/
-![image](https://github.com/user-attachments/assets/b66fe6c8-0a44-4bed-9773-daf46c64fc0a)
-![image](https://github.com/user-attachments/assets/3494d518-7609-40fd-8be2-cef4da008453)
-
 
 #### Magma Real Estate Webclone
 - Url: https://magma-webclone.vercel.app/
